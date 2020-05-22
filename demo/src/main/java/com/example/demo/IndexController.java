@@ -10,6 +10,6 @@ public class IndexController {
     @RequestMapping("index")
     @ResponseBody
     public String index(){
-        return "hello idea springboot11";
+        return "hello idea springboot222";
     }
 }
